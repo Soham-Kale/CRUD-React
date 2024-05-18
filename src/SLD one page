@@ -1,0 +1,52 @@
+**Sign Language Recognition using CNN**
+
+**Department:** Computer Science Engineering
+
+**Project Group No.:** 13
+
+**Guide:** Prof. S.S Bhuite
+
+**Students:**
+Mr. Onkar Janjiral  
+Mr. Harshavardhan Kale
+Mr. Anand Dhekare
+Miss. Snehal Birajdar  
+Miss.Akshata Kulkarni
+
+**Theme of Project:** Health/Technology
+
+**Title of Project:** Sign Language Recognition Using Convolutional Neural Networks (CNN)
+
+**Abstract:**
+This project focuses on developing a sign language recognition system using Convolutional Neural Networks (CNN). The system aims to bridge the communication gap for the deaf and hard of hearing by converting hand gestures into text or speech in real-time. Leveraging the power of deep learning, the CNN model is trained on a dataset of various sign language gestures to accurately identify and translate them. The project addresses a critical need in society, promoting inclusivity and improving the quality of life for individuals with hearing impairments.
+
+**Keywords:** Sign Language, Convolutional Neural Networks, Deep Learning, Gesture Recognition, Inclusivity
+
+**Graphical Abstract:**
+(Flowchart/Working Principle Diagram)
+
+1. Input: Video/Images of hand gestures.
+2. Preprocessing: Image segmentation and normalization.
+3. CNN Model: Feature extraction and gesture classification.
+4. Output: Text or speech translation of gestures.
+
+**Actual Gadget:**
+The final system includes a camera for capturing gestures, a processing unit for running the CNN model, and an output interface for displaying text or generating speech.
+
+**Achievements/Rewards:**
+Attached with the document.
+
+| Sr. No. | College Name | Department | Level of Competition | Competition Name | Rank |
+| ------- | ------------ | ---------- | -------------------- | ---------------- | ---- |
+| 1       |              |            |                      |                  |      |
+| 2       |              |            |                      |                  |      |
+| 3       |              |            |                      |                  |      |
+| 4       |              |            |                      |                  |      |
+| 5       |              |            |                      |                  |      |
+
+
+
+**Project Leader:**                                    **Project Guide:** 
+Mr. Onkar Janjiral                                      Prof. S.S Bhuite
+
+
